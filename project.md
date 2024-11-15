@@ -5,7 +5,8 @@
     <meta name="describtion" content="table"/>
   </head>
   <body>
-    <table width="50%" border="1" cellpadding="25" cellspacing="0">
+  <table width="50%" border="1" cellpadding="25" cellspacing="0">
+    <thead>
       <tr>
         <th>date </th>
         <th>name </th>
