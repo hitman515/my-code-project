@@ -29,7 +29,7 @@
                 <td>&copy;</td>
                 <td><a href="test.html" target="_blank" title="go to index ">Profile</a></td>
             <tr>
-                <td><img decoding="async" src="https://via.placeholder.com/40x40" alt="blue"></td>
+                <td><img decoding="async" src="https://via.placeholder.com/40x40" alt="blue test photo"></td>
                 <td>shady<br>nabil</td>
                 <td>s@nn.sa</td>
                 <td>&trade;</td>
@@ -37,7 +37,7 @@
             </tr>
             <tr>
                 <td>monster</td>
-                <td><img decoding="async" src="https://via.placeholder.com/40x40" alt="black"></td>
+                <td><img decoding="async" src="https://via.placeholder.com/40x40" alt="black test photo"></td>
                 <td>mohamed <br>ibrahim</td>
                 <td>m@nn.sa</td>
                 <td> &reg;</td>
