@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="UTF-8"
-   
-    <meta name="describtion" content="table"
+    <meta charset="UTF-8/>
+    <meta name="describtion" content="table"/>
   </head>
   <body>
     <table width="50%" border="1" cellpadding="25" cellspacing="0">
@@ -28,9 +27,7 @@
       <tr>
         <td>eman</td>
         <td>100</td>
-      </tr>
-             
-          
+      </tr>        
       </tbody>
     </table>
       
