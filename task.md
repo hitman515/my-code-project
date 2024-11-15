@@ -2,7 +2,6 @@
 <html>
   <head>
     <meta charset="UTF-8"
-   
     <meta name="describtion" content="table"
   </head>
   <body>
@@ -20,32 +19,25 @@
         <td>html</td>
         <td colspan="2">yes</td>
       </tr>
-      
       <tr>
         <td>css</td>
         <td colspan="2">yes</td>
       </tr>
-      
       <tr>
         <td rowspan="3">hero</td>
         <td>js</td>
         <td>yes</td>
         <td>no</td>
       </tr>
-      
       <tr>
         <td>php</td>
         <td colspan="2">yes</td>
       </tr>
-      
-      
       <tr>
       <td>python</td>
       <td>no</td>
       <td>no</td>
-      </tr>
-             
-          
+      </tr>        
       </tbody>
     </table>
       
