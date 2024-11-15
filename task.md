@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="UTF-8"
-    <meta name="describtion" content="table"
+    <meta charset="UTF-8"/>
+    <meta name="describtion" content="table"/>
   </head>
   <body>
     <table width="50%" border="1" cellpadding="15" cellspacing="5">
+      <thead>
       <tr>
         <th>year </th>
         <th>group </th>
@@ -13,6 +14,8 @@
         <th>done </th>
         <th>passed </th>
       </tr>
+      <thead/>
+      <tbody>
       <tr>
         <td rowspan="5">month</td>
         <td rowspan="2">elzero</td>
@@ -38,8 +41,7 @@
       <td>no</td>
       <td>no</td>
       </tr>        
-      </tbody>
-    </table>
-      
+    </tbody>
+    </table> 
   </body>
 </html>
